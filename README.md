@@ -21,5 +21,8 @@ DELETE, berfungsi untuk menghapus data/resource dari REST server
 
 OPTIONS, berfungsi untuk mendapatkan operasi yang disupport pada resource dari REST server.
 
-
+# Hasil Output dari Volley
 ![Alt Text](https://github.com/Tio304/RestAPIDota/blob/master/Screenshot_2021-05-10-08-16-42-55.png)
+
+# Link Untuk Hasil Dari Retrofit
+https://github.com/Tio304/RestAPI
